@@ -1,0 +1,144 @@
+body {
+    background-image: url(https://cafefazendaalianca.com.br/wp-content/uploads/2022/06/cafe-em-graos-saiba-a-forma-correta-de-moer-seu-cafe-1.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+
+  #contact-form {
+    margin-top: 20px; /* Adiciona um espaçamento superior */
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+  }
+  
+  #contact-form form {
+    display: inline-block; /* Permite centralizar o formulário */
+  }
+
+  /* Estilos para o formulário de contato */
+#contact-form {
+  margin-top: 20px; /* Adiciona um espaçamento superior */
+  text-align: center; /* Centraliza o conteúdo horizontalmente */
+}
+
+#contact-form form {
+  display: inline-block; /* Permite centralizar o formulário */
+  text-align: left; /* Alinha o texto do formulário à esquerda */
+  max-width: 400px; /* Limita a largura do formulário */
+  margin: 0 auto; /* Centraliza horizontalmente o formulário */
+}
+
+#contact-form label {
+  display: block; /* Coloca cada rótulo em uma nova linha */
+  margin-bottom: 5px; /* Adiciona espaçamento abaixo de cada rótulo */
+}
+
+#contact-form input,
+#contact-form textarea {
+  width: 100%; /* Define a largura dos campos de entrada como 100% */
+  padding: 8px; /* Adiciona preenchimento interno aos campos */
+  margin-bottom: 10px; /* Adiciona espaçamento abaixo de cada campo */
+  box-sizing: border-box; /* Garante que o preenchimento e a borda não alterem a largura total */
+}
+
+#contact-form button {
+  background-color: brown; /* Cor de fundo do botão */
+  color: white; /* Cor do texto do botão */
+  border: none; /* Remove a borda do botão */
+  padding: 10px 20px; /* Adiciona preenchimento interno ao botão */
+  cursor: pointer; /* Altera o cursor ao passar o mouse sobre o botão */
+}
+
+#contact-form button:hover {
+  background-color: #8B4513; /* Cor de fundo do botão ao passar o mouse */
+}
+
+  
